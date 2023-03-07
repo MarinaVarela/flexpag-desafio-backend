@@ -30,24 +30,33 @@ getByStatus(2) - PAID `vazio`
 
 
 -**POST**
+
 Http Status 200
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/post%20http%20status%20200.png" width="600" alt="post200">
 
 Http Status 400 - date is before now
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/post%20http%20status%20400%20%20-%20date%20is%20before%20now.png" width="600" alt="post400">
 
 
 -**PUT** `atualizado através do Id`
+
 Http Status 200
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/put%20http%20status%20200.png" width="600" alt="put200">
 
 Http Status 400 - date is before now
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/put%20http%20status%20400%20-%20date%20is%20before%20now.png" width="600" alt="put400">
 
 
 - **DELETE** `deletado através do Id`
+
 Http Status 200
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/delete%20http%20status%20200.png" width="600" alt="delete200">
 
 Http Status 400 `id não existente`
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/put%20http%20status%20400%20-%20date%20is%20before%20now.png" width="600" alt="delete400">
