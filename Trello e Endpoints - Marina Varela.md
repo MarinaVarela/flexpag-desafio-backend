@@ -13,15 +13,19 @@ Realizado no Postman
 -**GET**
 
  getAll()
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/getall.png" width="600" alt="getAll">
 
 getById()
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/getbyid.png" width="600" alt="getById">
 
 getByStatus(1) - PENDING
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/getbystatus1.png" width="600" alt="getByStatus1">
 
 getByStatus(2) - PAID `vazio`
+
  <img src="https://github.com/MarinaVarela/flexpag-desafio-backend/blob/main/contents/getbystatus2.png" width="600" alt="getByStatus2">
 
 
